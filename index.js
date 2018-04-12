@@ -7,7 +7,7 @@ function happyHolidays () {
 
 // Specific Person Holiday Greeting
 function happyHolidaysTo (name) {
-  return "Happy holidays, `${name}`!"
+  return "Happy holidays, " + name"!"
 }
 
 // Specific Holiday and Specific Person
