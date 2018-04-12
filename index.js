@@ -12,7 +12,7 @@ function happyHolidaysTo (name) {
 
 // Specific Holiday and Specific Person
 function happyHolidayTo (holiday, name) {
-  return "Happy " + holiday + "," + name
+  return "Happy " + holiday + ", " + name
 }
 
 // Holiday countdown
